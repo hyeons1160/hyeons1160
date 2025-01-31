@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub!  
 
-<!--
-**hyeons1160/hyeons1160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Junior Embedded Developer** passionate about **Motor Control and Embedded Systems**.  
+Currently, I'm working hard to improve my skills and gain deeper expertise in **Firmware Development** and **Real-Time Systems**.  
+I'm always eager to learn new technologies and challenge myself!  
 
-Here are some ideas to get you started:
+## 🌱 Learning & Interests  
+🔹 Embedded C & Python for firmware development  
+🔹 Motor Control & Power Electronics  
+🔹 CAN Communication & Real-Time Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me  
+📧 Email: hyeons1160@naver.com
+
+Thanks for visiting!  
+**Watch my journey and growth!** 🚀✨  
